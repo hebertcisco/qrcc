@@ -39,7 +39,7 @@ const PartFooter = () => (
         </span>
         <span>
           <LinkTrace href="contact" rel="noopener noreferrer" target="_blank">
-            Entre em contatos
+            Entre em contato
           </LinkTrace>
           <span className="gray">&ensp;丨&ensp;</span>
         </span>
@@ -85,25 +85,25 @@ const PartFooter = () => (
         </span>
         <span>
           <LinkTrace
-            href="https://fotoj.now.sh/"
+            href="http://musiko.now.sh/"
             rel="noopener noreferrer"
             target="_blank"
           >
-            Fotoj - Banco de imagens
+            Musiko - Reprodutor de música
           </LinkTrace>
         </span>
       </div>
 
       <div className="Gray">
-        Copyright © {currentYear} Hebert F. Barros
-        <br />
-        <LinkTrace
-          href="https://tecnobert.com.br/"
+        Copyright © {currentYear}<LinkTrace
+          href="https://hebertbarros.now.sh/"
           rel="noopener noreferrer"
           target="_blank"
         >
-          Tecnobert
+          HB.me
         </LinkTrace>
+       
+        
       </div>
     </div>
   </div>
