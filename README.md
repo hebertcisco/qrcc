@@ -1,6 +1,6 @@
 <p align="center">
- <img width="100px" src="https://raw.githubusercontent.com/hebertcisco/qrcc/master/.github/images/favicon512x512-qrcc.png" align="center" alt=":package: qrcc" />
- <h2 align="center">:package: qrcc</h2>
+ <img width="100px" src="https://raw.githubusercontent.com/hebertcisco/qrcg/master/.github/images/favicon512x512-qrcg.png" align="center" alt=":package: qrcg" />
+ <h2 align="center">:package: qrcg</h2>
  <p align="center">QR Code Generator - Made With React.js</p>
 </p>
 
@@ -9,12 +9,12 @@
 
 ## Installation
 
-> Clone this repository: `git clone https://github.com/hebertcisco/qrcc`
+> Clone this repository: `git clone https://github.com/hebertcisco/qrcg`
 
 ### Open the directory and install the dependencies
 
 ```bash
-cd qrcc && npm i
+cd qrcg && npm i
 ```
 
 ## Running the project

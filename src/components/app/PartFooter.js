@@ -18,7 +18,7 @@ const PartFooter = () => (
         </LinkTrace>
         &emsp;
         <LinkTrace
-          href="https://github.com/tecnobert/qrcc"
+          href="https://github.com/tecnobert/qrcg"
           rel="noopener noreferrer"
           target="_blank"
         >

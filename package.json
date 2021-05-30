@@ -1,7 +1,7 @@
 {
-  "name": "qrcc",
+  "name": "qrcg",
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "main": "./index.js",
   "files": [
     "public",
@@ -56,5 +56,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://qrcc.vercel.app/"
+  "homepage": "https://qrcg.vercel.app/"
 }

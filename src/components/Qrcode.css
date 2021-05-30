@@ -1,7 +1,7 @@
 
 @font-face {
     font-family: 'QRCC';
-    src: url('../fonts/qrcc.ttf');
+    src: url('../fonts/qrcg.ttf');
   }
 .Qr-titled {
     background-color: var(--content-bg-color);

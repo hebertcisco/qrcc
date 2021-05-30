@@ -61,7 +61,7 @@ const InputText = ({ dispatch }) => {
           />
           <input
             className="Qr-input big-input"
-            placeholder="https://qrcc.now.sh/"
+            placeholder="https://qrcg.now.sh/"
             ref={textRef}
             onBlur={(e) => {
               handleInputUrl();
